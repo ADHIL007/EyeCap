@@ -2,8 +2,10 @@
                Its a proprietary website - Using Ultrasonic sensors and camera 
      
      
-<h3> Project Updates </h3>
-[Uploading screen-capture (2).webm…]()
+<h3>⚡⚡ Project Updates ⚡⚡</h3>
+
+
+<br>
 ✔ Navbar added
 ✔ carousel added
 ✔ made it more responsive
