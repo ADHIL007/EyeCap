@@ -6,10 +6,10 @@
 
 
 <br>
-✔ Navbar added
-✔ carousel added
-✔ made it more responsive
-
+✔ Navbar added<br>
+✔ carousel added<br>
+✔ made it more responsive<br>
+<br><br>
                
 ❌❌ Please note that this is a developing project and kindly keep in mind that when reviewing the code ❌❌
 
