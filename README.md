@@ -1,6 +1,16 @@
 # EyeCap
                Its a proprietary website - Using Ultrasonic sensors and camera 
+     
+     
+<h3> Project Updates </h3>
+[Uploading screen-capture (2).webm…]()
+✔ Navbar added
+✔ carousel added
+✔ made it more responsive
+
+               
 ❌❌ Please note that this is a developing project and kindly keep in mind that when reviewing the code ❌❌
+
 
 <br>
 ⭕Product Links <br>
