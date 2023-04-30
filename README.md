@@ -1,5 +1,5 @@
 # EyeCap
-               Its a proprietary website website of a Project - Using Ultrasonic sensors and camera 
+               Its a proprietary website - Using Ultrasonic sensors and camera 
 ❌❌ Please note that this is a developing project and kindly keep in mind that when reviewing the code ❌❌
 
 <br>
