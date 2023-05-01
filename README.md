@@ -4,6 +4,7 @@
      
 <h3>⚡⚡ Project Updates ⚡⚡</h3>
 
+[screen-capture (3).webm](https://user-images.githubusercontent.com/56949215/235434841-1ea358f1-f171-44a2-bab4-91ac43944c84.webm)
 
 <br>
 ✔ Navbar added<br>
