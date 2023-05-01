@@ -11,9 +11,10 @@
 ✔ carousel added<br>
 ✔ made it more responsive<br>
 ✔ Overview added<br>
-✔ login button aded<br><br>
+✔ login button aded<br>
 ✔ price plan section added<br>
 ✔ footer added<br>
+✔ Navbar updated (nav2.0) <br>
 <br><br>
                
 ❌❌ Please note that this is a developing project and kindly keep in mind that when reviewing the code ❌❌
