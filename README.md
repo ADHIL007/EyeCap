@@ -10,6 +10,10 @@
 ✔ Navbar added<br>
 ✔ carousel added<br>
 ✔ made it more responsive<br>
+✔ Overview added
+✔ login button aded
+✔ price plan section added
+✔ footer added
 <br><br>
                
 ❌❌ Please note that this is a developing project and kindly keep in mind that when reviewing the code ❌❌
