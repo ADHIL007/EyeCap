@@ -1,5 +1,5 @@
 # EyeCap
-               Its a proprietary website - Using Ultrasonic sensors and camera 
+              Smart surveillance system with AI integration
      
      
 <h3>⚡⚡ Project Updates ⚡⚡</h3>
