@@ -19,12 +19,15 @@
 ![main ](https://github.com/ADHIL007/EyeCap/assets/56949215/ce93f62c-5492-4afd-adfa-fde689d06a6d)
 
 <h1>User Controls</h1>
+
 ![Screenshot 2023-06-30 194353](https://github.com/ADHIL007/EyeCap/assets/56949215/8e887415-0d46-42ca-b6cf-8b80ecfd2c9b)
 
 <h1>Camera controls</h1>
+
 ![6](https://github.com/ADHIL007/EyeCap/assets/56949215/d79e61fe-f709-445f-98eb-cdab6064f701)
 
 <h1>Recent Images</h1>
+
 ![recent](https://github.com/ADHIL007/EyeCap/assets/56949215/723a272d-3fa4-496d-aa8f-3aad7069fc65)
 ![asved](https://github.com/ADHIL007/EyeCap/assets/56949215/d7427dae-e45d-4b63-a323-32f4b71edb3f)
 ![face1](https://github.com/ADHIL007/EyeCap/assets/56949215/bfb23230-53bc-4316-876b-b77674445014)
