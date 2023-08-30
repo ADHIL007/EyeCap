@@ -1,6 +1,7 @@
 # EyeCap
               Smart surveillance system with AI integration
-     
+<h3>This project explores the possibility of detecting objects using ultrasonic sensors and capturing the data with radar technology. The captured data can be transmitted to a mobile phone or system for further analysis. The study focuses on the development of a system that integrates ultrasonic sensors and radar technology to enable accurate detection and identification of objects. The objective is to provide a reliable and cost-effective solution that can be used for a variety of applications, including security and surveillance, obstacle detection for autonomous vehicles, and environmental monitoring.AI models that recognise human interactions and facial expressions are also included to identify unsafe scenarios.
+</h3>     
      
 <h3>⚡⚡ Project Updates ⚡⚡</h3>
 <h1>Main page</h1>
